@@ -1,14 +1,4 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
-
----
 name: 新規実装チケットテンプレート
 about: 新規実装用のテンプレです。デフォルトのバージョンは 0.1.0 です。
 title: "[feature] "
